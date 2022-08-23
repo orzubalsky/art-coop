@@ -51,7 +51,7 @@ Markdown files are editable in the CMS, ejs files are not but allow writing cust
 
 LESS files are in `/styles`. `/styles/styles.less` is the entrypoint and must import all other files.
 
-`/styles/variables` contains declarations of reusable colors, fonts, etc. Please try to always reuse a varible rather than using literal colors anywhere else.
+`/styles/variables` contains declarations of reusable colors, fonts, etc. Please try to always reuse a variable rather than using literal colors anywhere else.
 
 `/styles/partials` has larger blocks of reusable styles.
 
@@ -61,9 +61,9 @@ Most other files map 1:1 with an item of content. They should be wrapped in a sc
 
 `/assets/downloads` has PDFs for download.
 
-`/assets/uploads` is has files uploaded into the CMS's media manager.
+`/assets/uploads` contains files uploaded into the CMS's media manager.
 
-`/assets/images` - static images not managable by the CMS
+`/assets/images` - static images not managed by the CMS
 
 `/assets/scripts` - a small amount of JavaScript
 There are a few small interactive elements, for which we need client-side JS.
@@ -79,12 +79,13 @@ See the Netlify CMS documentation for details.
 
 ### `/_data`
 
-The data folder is a convenience way to store arbitrary data for use in templates.
+The data folder is a convenient way to store arbitrary data for use in templates.
 There are a couple things in here: actual data and utility functions.
+
 Data files like `interventions.json` are editable in the CMS and used in templates.
 
 The second, hacky use of `_data` is to make JavaScript functions available to templates.
-This includes `_.js` which exports lodash, and `markdown.js` which provides a function to render markdown (Eleventy automatically renders Markdown when it's the body of a Markdown file, but not if it's just a string in a JSON blob in \_data).
+This includes `_.js` which exports lodash, and `markdown.js` which provides a function to render markdown (Eleventy automatically renders Markdown when it's the body of a Markdown file, but not if it's just a string in a JSON blob in `/_data`).
 
 ### Misc.
 
