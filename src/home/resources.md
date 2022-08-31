@@ -1,7 +1,8 @@
 ---
-title: Learn
-hideInNavigation: false
-position: 10
+title: Resources
+hideInNavigation: true
+position: 1030
+anchor: resources
 ---
 
 ## Top 10 Resources

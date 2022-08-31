@@ -1,7 +1,8 @@
 ---
 title: Examples
 hideInNavigation: true
-position: 6
+position: 2040
+anchor: examples
 ---
 
 ## Solidarity Economy & Culture
@@ -135,7 +136,3 @@ Cooperative and Collective Study Groups: [Repaired Nations,\*](http://repairedna
 :::
 
 ::::
-
-![Ways of being diagram](/assets/uploads/diagram02.svg)
-
-To support this work, you can: educate yourself, join existing organizing work, and advocate for economic justice.

@@ -1,10 +1,13 @@
 ---
 title: Contact
-position: 14
-hideInNavigation: false
+hideInNavigation: true
+position: 6010
+anchor: contact
 ---
 
 ## Contact
+
+Let's connect! :)
 
 Email: [nati conrazon](mailto:nlinares@gmail.com), [caroline woolard](mailto:carolinewoolard@gmail.com)\
 Instagram: [@\_artcoop](https://www.instagram.com/_artcoop/)\

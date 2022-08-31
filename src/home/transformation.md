@@ -1,7 +1,8 @@
 ---
 title: Transformation
 hideInNavigation: true
-position: 7
+position: 4040
+anchor: transformation
 ---
 
 ### The transformation underway can be summarized as follows:
@@ -30,3 +31,11 @@ position: 7
 | **Use-rights**               | Granted by the owner (or not). Focus on: individual property and assets                                                                                  | Co-decided by co-producing users. Focus on: equity, access                                                                                                             |
 | **Pay**                      | Wages                                                                                                                                                    | Shared livelihood                                                                                                                                                      |
 | **Political Economy**        | Neoliberal, capitalist                                                                                                                                   | Post-capitalist: Solidarity Economy, socialism, or social democracy                                                                                                    |
+
+&nbsp;
+
+### Examples
+
+The table below presents some of the practices and policies that arts and culture grantmakers have adopted to support Solidarity Economies.
+
+_Note: This list is a working document, developed in dialogue with our interviewees, and it reflects a small snapshot of the range of practices underway as of March 2021. These grantmaking practices are the **result** of each group’s ongoing learning and shared commitment to long-term organizational transformation in the service of racial and economic justice in the sector and beyond. Practices will look different for each organization based on their culture, context, process, and desires._
