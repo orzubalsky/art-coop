@@ -5,6 +5,6 @@ position: 1070
 anchor: report
 ---
 
-<h2>Report</h2>
+## Report
 
 <%- include('/report-block') %>

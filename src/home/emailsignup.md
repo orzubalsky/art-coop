@@ -1,9 +1,9 @@
 ---
 title: Email Signup
-position: 6020
 hideInNavigation: true
+position: 6020
 ---
 
-<h2>Please notify me about upcoming events related to this report</h2>
+## Please notify me about upcoming events related to this report
 
 <%- include('/email-signup-form') %>

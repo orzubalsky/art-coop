@@ -36,35 +36,12 @@ collections:
         widget: number
         min: 0
         step: 1
-      - name: body
-        label: body
-        widget: markdown
-  - name: study
-    label: 'Study sections'
-    label_singular: 'section'
-    folder: src/study
-    extension: md
-    format: yaml-frontmatter
-    sortable_fields:
-      - position
-    create: false
-    delete: false
-    editor:
-      preview: false
-    fields:
-      - name: title
-        label: Title
+      - name: anchor
+        label: Anchor
         widget: string
-      - name: hideInNavigation
-        label: Hide in navigation
-        widget: boolean
         required: false
         default: false
-      - name: position
-        label: Display position
-        widget: number
-        min: 0
-        step: 1
+        pattern: ['^\S+$', 'Must not contain spaces']
       - name: body
         label: body
         widget: markdown
