@@ -3,3 +3,4 @@ node_modules
 
 # specific troublesome files
 src/_includes/people.ejs
+src/_includes/sectionalLayout.ejs

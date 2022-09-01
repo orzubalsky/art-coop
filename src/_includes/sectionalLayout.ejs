@@ -1,9 +1,14 @@
-<%- include('/nav', { collectionName, extraNavLinks }) %>
+<%- include('/nav', { collectionName, extraNavLinks }) %> 
 
 <main>
   <% collections[collectionName].filter((section)=>
   !section.data.hidden).forEach((section)=> { %>
   <section id="<%- section.data.anchor %>" class="<%- section.fileSlug %>">
+    <% if (section.data.anchor) { if (!section.data.hideInNavigation) { %>
+    <h1 class="section-header"><%- section.data.title %> <a href="/#<%- section.data.anchor %>" class="anchor-link"><img src="/assets/images/link.svg" /></a></h1>
+    <% } else { %>
+    <h2 class="section-header"><%- section.data.title %> <a href="/#<%- section.data.anchor %>" class="anchor-link"><img src="/assets/images/link.svg" /></a></h2>
+    <% }} %> 
     <%- section.templateContent %>
   </section>
   <% }) %>

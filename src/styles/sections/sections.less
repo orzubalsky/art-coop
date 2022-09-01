@@ -1,0 +1,20 @@
+@import '../variables/sizing.less';
+
+.section-header {
+  display: flex;
+  align-items: center;
+  column-gap: @grid;
+  margin-top: 4 * @grid;
+}
+
+.anchor-link {
+  img {
+    width: 0.75em;
+    height: 0.75em;
+    transform: rotate(-45deg);
+    display: block;
+  }
+  &:hover {
+    border: none;
+  }
+}
