@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: aug-reorg
+  branch: site-update-2022
   repo: jboolean/art-coop
 
 # publish_mode: editorial_workflow
