@@ -1,2 +1,5 @@
 _site
 node_modules
+
+# specific troublesome files
+src/_includes/people.ejs

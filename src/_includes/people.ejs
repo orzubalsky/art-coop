@@ -10,8 +10,7 @@ matchResult[1] : url; }; %>
   </h2>
 
   <ul class="people">
-    <% people.people.forEach(person => { %>
-    <li>
+    <% people.people.forEach(person => { %><li>
       <div class="name"><%= person.name %></div>
       <div class="title"><%= person.personTitle %></div>
       <div class="link">
@@ -19,7 +18,6 @@ matchResult[1] : url; }; %>
           ><%= summarizeUrl(person.url) %></a
         >
       </div>
-    </li>
-    <% }) %>
+    </li><% }) %>
   </ul>
 </div>

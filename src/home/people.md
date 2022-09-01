@@ -5,4 +5,4 @@ hideInNavigation: true
 anchor: people
 ---
 
-\[insert people block here... Still trying to fix a rendering issue]
+<%- include('/people') %>
