@@ -1,7 +1,7 @@
 ---
 title: Timeline
 position: 5010
-hideFromNavigation: true
+hideInNavigation: true
 anchor: timeline
 ---
 
