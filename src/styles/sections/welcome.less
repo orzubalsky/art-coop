@@ -5,31 +5,7 @@
 
 @nav-height: @grid * 3;
 
-.section-welcome {
-  display: flex;
-  flex-direction: column;
-  height: 0;
-  min-height: calc(100vh - @nav-height);
-
-  .video-container {
-    .full-bleed();
-    flex-grow: 1;
-    flex-basis: 50vh;
-    position: relative;
-  }
-
-  .below-video-content {
-    width: 100%;
-    padding: 0 (@grid * 2);
-    align-self: center;
-
-    display: flex;
-    flex-direction: row;
-
-    justify-content: space-between;
-    align-items: center;
-  }
-
+.welcome {
   .site-title {
     text-align: center;
   }
@@ -64,16 +40,8 @@
     .buttonStyledLink(@accent-color-jade);
   }
 
-  @media (max-width: @mobile-width) {
-    .video-container {
-      flex-grow: 0;
-    }
-
-    .below-video-content {
-      flex-grow: 1;
-      display: block;
-      flex-direction: column;
-      align-items: start;
-    }
+  ul li {
+    list-style: none;
+    .font-size-large();
   }
 }

@@ -5,8 +5,6 @@ position: 4020
 anchor: problem
 ---
 
-### Problem statement
-
 As the cultural sector actively seeks alternatives to business-as-usual to create economic and racial justice in the sector and beyond, the main barriers for many Solidarity Economy cultural entities include
 
 1. a lack of understanding by grantmakers of systems-change and existing power imbalances

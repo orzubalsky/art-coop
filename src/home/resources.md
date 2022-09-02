@@ -1,11 +1,9 @@
 ---
-title: Resources
+title: Top 10 Resources
 hideInNavigation: true
 position: 1030
 anchor: resources
 ---
-
-## Top 10 Resources
 
 1. Power-Sharing in Grantmaking
 

@@ -5,8 +5,6 @@ hideFromNavigation: true
 anchor: timeline
 ---
 
-## Timeline
-
 ### Phase One (fall 2021) 
 
 **Our aim is to connect cultural innovators across silos** - _popular arts educators, cultural organizers and creators, arts academics, economists, and grantmakers_ -  **who do not know one another well, but are building the cultural economy we want**. We need to socialize, study, and dream together before we can take collective action.

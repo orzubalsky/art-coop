@@ -5,8 +5,6 @@ position: 1080
 anchor: webinars
 ---
 
-## Webinars
-
 The following webinars are from our 2021 Study into Action program, which connected cultural innovators across silos who did not know one another well, but are building the cultural economy we want, to socialize, study, and dream together before we can take collective action.
 
 - Friday, September 3rd, 2021 from 12-1 p.m. EDT [VIDEO RECORDING](https://youtu.be/rs-oICgiudY) "The Way it Works": Abuse, Alienation, and Our Current Condition as Arts & Culture Workers

@@ -2,7 +2,6 @@
 title: Concepts
 position: 2010
 hideInNavigation: true
-anchor: concepts
 ---
 
 <%- include('/concepts') %>

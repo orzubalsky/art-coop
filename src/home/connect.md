@@ -5,8 +5,6 @@ position: 2000
 anchor: connect
 ---
 
-## Connect
-
 ### Creative Co-ops, Cultural Work in the Solidarity Economy, and the Potential for Artistic Liberation
 
 In the coming days, months, and years, our world will critically reflect not on the havoc this period of compounding chaos and crisis wreaked, but rather on the changes we made in response. At a time of such variant institutional and interpersonal violence, how did we, as ancestors, seed sustainable kindness for those who would come after us?

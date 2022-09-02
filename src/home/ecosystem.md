@@ -1,11 +1,9 @@
 ---
-title: Ecosystem
+title: The Solidarity Economy Ecosystem
 hideInNavigation: true
 position: 1090
 anchor: ecosystem
 ---
-
-## The Solidarity Economy Ecosystem
 
 A number of organizations that support the Solidarity Economy in the United States have emerged in the past decade, and in recent years, there has been a significant increase in the number and diversity of entities providing support to Solidarity Economy organizations. However, although artists and culture-bearers participate in many of these as workers and beneficiaries, few of these entities place an emphasis on art and culture.
 
