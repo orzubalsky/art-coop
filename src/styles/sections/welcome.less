@@ -36,6 +36,14 @@
     }
   }
 
+  #concept {
+    @color: @font-color-base;
+    border-bottom: 1px dashed @color;
+    font-style: normal;
+    cursor: help;
+    font-size: @font-size-larger;
+  }
+
   a.download-button {
     .buttonStyledLink(@accent-color-jade);
   }
@@ -43,5 +51,11 @@
   ul li {
     list-style: none;
     .font-size-large();
+  }
+
+  img {
+    max-width: 70vw;
+    display: block;
+    margin: 0 auto;
   }
 }
