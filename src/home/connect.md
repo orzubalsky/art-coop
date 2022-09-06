@@ -5,8 +5,6 @@ position: 2000
 anchor: connect
 ---
 
-### Creative Co-ops, Cultural Work in the Solidarity Economy, and the Potential for Artistic Liberation
-
 In the coming days, months, and years, our world will critically reflect not on the havoc this period of compounding chaos and crisis wreaked, but rather on the changes we made in response. At a time of such variant institutional and interpersonal violence, how did we, as ancestors, seed sustainable kindness for those who would come after us?
 
 The crises themselves are clear: the ongoing coronavirus pandemic has left our (im)migrant, displaced, working poor, rural, disabled, elderly, trans, queer, and BIPOC communities financially, physically, socially, and culturally devastated. Multiple debt buckets are overflowing and flooding the lives of many, including young graduates---mostly those of color. The world, quite literally, is burning away due to unmitigated climate catastrophes.

@@ -7,14 +7,13 @@
 @font-weight-bold: 700;
 
 @font-size-sm: 14px;
-@font-size-base: 16px;
+@font-size-base: 18px;
 @font-size-large: 24px;
 @font-size-larger: 32px;
-@font-size-largest: 48px;
 
 .font-size-base() {
-  line-height: (@grid * 2);
   font-size: @font-size-base;
+  line-height: (@grid * 2.25);
 }
 
 .font-size-large() {
@@ -25,9 +24,4 @@
 .font-size-larger() {
   font-size: @font-size-larger;
   line-height: (@grid * 4);
-}
-
-.font-size-largest() {
-  font-size: @font-size-largest;
-  line-height: (@grid * 8);
 }

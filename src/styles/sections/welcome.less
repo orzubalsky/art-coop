@@ -6,6 +6,8 @@
 @nav-height: @grid * 3;
 
 .welcome {
+  .font-size-large();
+
   .site-title {
     text-align: center;
   }
@@ -16,7 +18,7 @@
 
   .greeting,
   .site-title {
-    font-family: @font-family-sans;
+    font-family: @font-family-serif;
     font-weight: @font-weight-bold;
     font-size: @font-size-larger;
   }
@@ -41,7 +43,6 @@
     border-bottom: 1px dashed @color;
     font-style: normal;
     cursor: help;
-    font-size: @font-size-larger;
   }
 
   a.download-button {
@@ -50,7 +51,6 @@
 
   ul li {
     list-style: none;
-    .font-size-large();
   }
 
   img {
