@@ -16,5 +16,3 @@ This work has roots in the Black liberation movement in the United States and ha
 ### The Solidarity Economy Ecosystem in the U.S.
 
 A number of organizations that support the Solidarity Economy in the United States have emerged in the past decade, and in recent years, there has been a significant increase in the number and diversity of entities providing support to Solidarity Economy organizations. However, although artists and culture-bearers participate in many of these as workers and beneficiaries, few of these entities place an emphasis on art and culture.
-
-Here are a few examples of arts and culture groups and initiatives in the Solidarity Economy. As shown throughout the [report](http://art.coop/#resources), all networks and infrastructure in the Solidarity Economy---regardless of their emphasis on arts and culture---will support artists and culture-bearers.
