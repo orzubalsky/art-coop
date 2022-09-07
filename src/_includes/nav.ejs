@@ -3,7 +3,9 @@
     <% collections[collectionName].filter((section)=>
     !section.data.hideInNavigation).forEach((section)=> { %>
     <li>
-      <a href="#<%= section.data.anchor %>"> <%= section.data.title %> </a>
+      <a href="#<%= section.data.anchor %>" onclick="toggleMainNav()">
+        <%= section.data.title %>
+      </a>
     </li>
     <% }) %> <% (extraNavLinks || []).forEach(({href, isExternal, text,
     isCta})=> { %>
@@ -14,4 +16,49 @@
     </li>
     <% }) %>
   </ul>
+  <div id="openNav" class="navToggle" onclick="toggleMainNav()">
+    <svg
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        d="M4 6h16M4 12h16M4 18h16"
+      ></path>
+    </svg>
+  </div>
+  <div id="closeNav" class="navToggle" onclick="toggleMainNav()">
+    <svg
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        d="M6 18L18 6M6 6l12 12"
+      ></path>
+    </svg>
+  </div>
 </nav>
+<script>
+  function toggleMainNav() {
+    if (!window.matchMedia('(max-width: 678px)').matches) {
+      return;
+    }
+    var wrapper = document.body;
+    if (wrapper.classList.contains('navActive')) {
+      wrapper.classList.remove(['navActive']);
+      document.documentElement.style = ' ';
+    } else {
+      wrapper.classList.add(['navActive']);
+      document.documentElement.style = 'overflow: hidden;';
+    }
+  }
+</script>
