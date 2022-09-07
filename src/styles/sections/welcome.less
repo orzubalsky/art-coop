@@ -49,13 +49,18 @@
     .buttonStyledLink(@accent-color-jade);
   }
 
-  ul li {
+  ul {
     list-style: none;
-  }
-
-  img {
-    max-width: 70vw;
-    display: block;
-    margin: 0 auto;
+    padding-left: @grid*6;
+    li {
+      padding-bottom: @grid;
+      img {
+        height: @grid*3;
+        width: @grid*3;
+        vertical-align: middle;
+        margin-left: -@grid * 4.7;
+        margin-right: @grid;
+      }
+    }
   }
 }
