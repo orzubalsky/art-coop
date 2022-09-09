@@ -8,9 +8,9 @@ position: 1000
 
 Did you know that **cultural workers are co-creating <i id="concept" data-concepts='<%= JSON.stringify(concepts.concepts) %>'></i>** right now?
 
-You can live a good life in community &ndash; without a boss, without a landlord, and with money for our dream projects. This is happening right now.
+You can live a good life without a boss, without a landlord, and with money for our dream projects. This is happening right now.
 
-Welcome to Art.coop &ndash; we exist to grow the solidarity economy movement by centering systems-change work led by artists and culture-bearers.
+Welcome to Art.coop. We exist to grow the solidarity economy movement by centering systems-change work led by artists and culture-bearers.
 
 Join us as we:
 
