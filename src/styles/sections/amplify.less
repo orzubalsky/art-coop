@@ -3,8 +3,12 @@
 @import '../variables/color.less';
 @import '../variables/buttons.less';
 
-.amplify {
+section.amplify {
   .instafeed {
     .full-bleed();
+  }
+  // required to avoid horizontal scroll on mobile
+  div.eapps-widget-toolbar {
+    display: none !important;
   }
 }
