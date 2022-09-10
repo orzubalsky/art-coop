@@ -1,7 +1,8 @@
 ---
 title: Report
-hideInNavigation: false
-position: 9
+hideInNavigation: true
+position: 1070
+anchor: report
 ---
 
 <%- include('/report-block') %>

@@ -18,6 +18,7 @@ md.use(mila, [
 md.use(mic, 'break-inside-avoid');
 md.use(mic, 'columns');
 md.enable('table');
+md.disable('code');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/assets');

@@ -2,22 +2,22 @@
 @import './variables/typography.less';
 @import './variables/color.less';
 
-@nav-height: @grid * 3;
+@navheight: @grid*4.5;
 
 // https://stackoverflow.com/a/28824157
 // Fixes nav sitting on top of targetted element
 :target::before {
   content: '';
   display: block;
-  height: @nav-height;
-  margin: -@nav-height 0 0;
+  height: @navheight;
+  margin: -@navheight 0 0;
 }
 
 .main-nav {
   position: sticky;
   top: 0;
-  z-index: 1;
-  min-height: @nav-height;
+  z-index: @menu-z;
+  min-height: @navheight;
 
   background-color: fade(@background-color-base, 90%);
   backdrop-filter: blur(2px);
@@ -26,6 +26,9 @@
     list-style: none;
     margin: 0;
     padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 
     text-align: center;
 
@@ -44,9 +47,8 @@
       }
 
       a {
-        display: block;
         padding: 0 @grid;
-        line-height: @nav-height;
+        line-height: @navheight;
 
         font-weight: @font-weight-bold;
         border-bottom: 1px dashed transparent;
@@ -77,6 +79,77 @@
       &:nth-child(6n + 6) {
         .applyColor(@accent-color-purple);
       }
+    }
+  }
+
+  .navToggle {
+    font-size: 1.2em;
+    display: none;
+    text-align: right;
+    svg {
+      height: @grid * 2;
+      padding: @grid;
+      cursor: pointer;
+    }
+  }
+}
+
+@media screen and (max-width: 678px) {
+  body.navActive {
+    &::before {
+      content: '';
+      display: block;
+      height: @navheight;
+    }
+
+    & .main-nav {
+      position: fixed;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: fade(@background-color-base, 95%);
+
+      & > ul {
+        margin: 0;
+        // background: #343434;
+        display: flex;
+        position: absolute;
+        visibility: visible;
+        opacity: 1;
+        transition: opacity 0.2s ease-in;
+        right: 0;
+        top: 70px;
+        width: 100%;
+        height: unset;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0;
+        & > li {
+          text-align: center;
+          border: none;
+          a {
+            padding: 0;
+          }
+        }
+      }
+
+      #openNav {
+        display: none;
+      }
+      #closeNav {
+        display: block;
+      }
+    }
+  }
+  .main-nav {
+    #openNav {
+      display: block;
+    }
+    & > ul {
+      visibility: hidden;
+      opacity: 0;
+      height: 0;
     }
   }
 }

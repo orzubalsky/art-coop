@@ -1,5 +1,6 @@
 @import '../variables/color.less';
 @import '../variables/buttons.less';
+@import '../variables/sizing.less';
 
 @popup_width: 600px;
 @popup_height: 350px;
@@ -16,7 +17,7 @@
   width: 100%;
   height: 100%;
 
-  z-index: 100;
+  z-index: @popup-z;
 
   // Centering
   display: flex;

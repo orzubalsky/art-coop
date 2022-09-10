@@ -1,10 +1,9 @@
 ---
-title: Learn
-hideInNavigation: false
-position: 10
+title: Top 10 Resources for Grantmakers
+hideInNavigation: true
+position: 1075
+anchor: grantmaker-resources
 ---
-
-## Top 10 Resources
 
 1. Power-Sharing in Grantmaking
 

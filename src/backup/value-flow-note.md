@@ -3,6 +3,7 @@ title: Value flow note
 hideInNavigation: true
 position: 7
 ---
+
 Haystack Mountain School of Crafts (Maine) instigated Phase 1 and Open Collective Foundation is the home of the school for Phase 1 and 2.
 
 :::columns

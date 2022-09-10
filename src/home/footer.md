@@ -3,9 +3,10 @@ title: Footer
 hideInNavigation: true
 position: 9999
 ---
+
 [![Grantmakers in the Arts logo](/assets/uploads/gia-logo.svg)](https://www.giarts.org/)
 
-This report is made possible by the William and Flora Hewlett Foundation, the Kenneth Rainin Foundation, and the Barr Foundation.
+Art.coop is a fiscally sponsored project of Open Collective Foundation. Our budget is transparent and available online [here](https://opencollective.com/study-into-action/transactions). Support comes from individual contributors like you as well as the William and Flora Hewlett Foundation, the Kenneth Rainin Foundation, the Barr Foundation, and the Mellon Foundation.
 
 ::: columns
 
@@ -14,6 +15,8 @@ This report is made possible by the William and Flora Hewlett Foundation, the Ke
 ![Kennith Rainin Foundation](/assets/uploads/rainin.png)
 
 ![Barr Foundation](/assets/uploads/barr.png)
+
+![Mellon Foundation](/assets/uploads/mellon-foundation-logo.png)
 
 :::
 

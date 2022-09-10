@@ -1,10 +1,9 @@
 ---
 title: Timeline
-position: 5
-hideFromNavigation: false
+position: 5010
+hideInNavigation: true
+anchor: timeline
 ---
-
-## Timeline
 
 ### Phase One (fall 2021) 
 

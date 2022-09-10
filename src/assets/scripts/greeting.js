@@ -47,9 +47,9 @@ function renderGreeting() {
     minute >= 30
       ? HALF_HOUR_EMOJIS_BY_HOUR[hour % 12]
       : EMOJIS_BY_HOUR[hour % 12];
-  greeting += ' ' + emoji;
+  greeting += ' <span class="clock">' + emoji + '</span>';
 
-  el.innerText = greeting;
+  el.innerHTML = greeting;
 }
 
 renderGreeting();
