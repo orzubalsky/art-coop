@@ -6,7 +6,7 @@ position: 1000
 
 <h1 id="greeting" class="greeting">Good Morning</h1>
 
-Did you know that **cultural workers are co-creating <i id="concept" data-concepts='<%= JSON.stringify(concepts.concepts) %>'></i>** right now?
+<p id="concept-para">Did you know that <strong>cultural workers are co-creating <i id="concept" data-concepts='<%= JSON.stringify(concepts.concepts) %>'></i></strong> right now?</p>
 
 You can live a good life without a boss, without a landlord, and with money for our dream projects. This is happening right now.
 
