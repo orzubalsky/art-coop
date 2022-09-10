@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: site-update-2022
+  branch: master
   repo: jboolean/art-coop
 
 # publish_mode: editorial_workflow
