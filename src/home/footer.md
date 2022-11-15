@@ -5,7 +5,7 @@ position: 9999
 ---
 [![Grantmakers in the Arts logo](/assets/uploads/gia-logo.svg)](https://www.giarts.org/)
 
-Art.coop is a fiscally sponsored project of Open Collective Foundation. Our budget is transparent and available online [here](https://opencollective.com/study-into-action/transactions). Support comes from individual contributors like you as well as the William and Flora Hewlett Foundation, the Kenneth Rainin Foundation, the Barr Foundation, and the Mellon Foundation.
+Art.coop is a fiscally sponsored project of Open Collective Foundation. Our budget is transparent and available online [here](https://opencollective.com/art_coop). Support comes from individual contributors like you as well as the William and Flora Hewlett Foundation, the Kenneth Rainin Foundation, the Barr Foundation, and the Mellon Foundation.
 
 ::: columns
 
