@@ -5,8 +5,8 @@ position: 1000
 ---
 <h1 id="greeting" class="greeting">Good Morning</h1>
 
-Artists + culture bearers: there is an alternative to exploitation, isolation, and fear.
-
+There is an alternative to exploitation, isolation, and fear. \
+\
 Let's build cooperative, connected, and care-based futures. 
 
 In March 2021, Art.coop launched with a [REPORT](http://art.coop/#report). In September and October of 2021, we held [Study-into-Action](http://art.coop/#study) with 105 cultural innovators. We just launched [PODCAST](https://art.coop/#podcast), online [COURSES](https://art.coop/#courses), and our [Move the Money series](https://www.giarts.org/move-money-grantmakers-arts-artcoop-solidarity-economy-discussion-series) continues. 
