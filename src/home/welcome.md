@@ -5,11 +5,35 @@ position: 1000
 ---
 <h1 id="greeting" class="greeting">Good Morning</h1>
 
-<p id="concept-para">Did you know that <strong>cultural workers are co-creating <i id="concept" data-concepts='<%= JSON.stringify(concepts.concepts) %>'></i></strong> right now?</p>
+<p id="concept-para">Did you know that <strong>cultural workers are co-creating <i id="concept" data-concepts='<%= JSON.stringify(concepts.concepts) %>'></i></strong> right now?</p> 
 
-You can live a good life without a boss, without a landlord, and with money for your dream projects. This is happening right now.
 
-Welcome to Art.coop. We exist to grow the solidarity economy movement by centering systems-change work led by artists and culture-bearers.
+
+In March 2021, Art.coop launched with a [REPORT](http://art.coop/#report). In September and October of 2021, we held [Study-into-Action](http://art.coop/#study) with 105 cultural innovators. We just launched [PODCAST](https://art.coop/#podcast), online [COURSES](https://art.coop/#courses), and our [Move the Money series](https://www.giarts.org/move-money-grantmakers-arts-artcoop-solidarity-economy-discussion-series) continues. 
+
+
+
+
+
+Yes, artists are workers.
+
+
+
+We work together to resist exploitation and create jobs, housing, and resource exchanges that value artists as whole people. 
+
+
+
+We join the Solidarity Economy movement as we fire our bosses, free the land, and elect ourselves.
+
+
+
+We are empowered change-makers who actively choose the lives we want to lead. 
+
+
+
+We can live our values and do joyful work that pays the bills.
+
+
 
 Join us as we:
 
@@ -18,6 +42,8 @@ Join us as we:
 * [![📣](/assets/images/icons/amplify-sm.png)](#amplify) **AMPLIFY** research, inspiration, resources, and events, and
 * [![💰](/assets/images/icons/movemoney-sm.png)](#movemoney) **MOVE MONEY** to multi-year, self-determined, systems-change work.
 
-In March 2021, Art.coop launched with a [REPORT](http://art.coop/#report). In September and October of 2021, we held [Study-into-Action](http://art.coop/#study) with 105 cultural innovators. Today, we exist to STUDY, CONNECT, AMPLIFY, and MOVE MONEY. [Join us!](http://art.coop/#connect)
+
+
+
 
 <script src="/assets/scripts/rotateConcepts.js"></script>
