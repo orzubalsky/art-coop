@@ -14,6 +14,6 @@ In this 7 episode narrative pilot, listeners learn: You don’t have to be a sta
 
 **Listen to the podcast [here](https://rememberthefuture.buzzsprout.com/), or anywhere you get your podcasts!**
 
-W﻿ant to join a study group in Spring 2022 about the podcast? Write to Marina at marina@art.coop to learn more.\
+W﻿ant to join a study group in Spring 2023 about the podcast? Write to Marina at marina@art.coop to learn more.\
 \
 S﻿upport the next season of Remember the Future, [here](https://opencollective.com/art_coop/projects/podcastseason/donate).
