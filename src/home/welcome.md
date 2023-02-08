@@ -9,7 +9,9 @@ There is an alternative to exploitation, isolation, and fear. \
 \
 Let's build cooperative, connected, and care-based futures. 
 
-In March 2021, Art.coop launched with a [REPORT](http://art.coop/#report). In September and October of 2021, we held [Study-into-Action](http://art.coop/#study) with 105 cultural innovators. Listen to our [PODCAST](https://art.coop/#podcast) and take a free online [COURSE](https://art.coop/#courses). Attend our [Move the Money series](https://www.giarts.org/move-money-grantmakers-arts-artcoop-solidarity-economy-discussion-series). Find us on [IG](https://www.instagram.com/_artcoop/) or [Twitter](https://twitter.com/_artcoop). We exist to support creatives in the [Solidarity Economy movement](https://art.coop/#examples) and to usher in the [transformation](https://art.coop/#transform) underway.
+In March 2021, Art.coop launched with a [REPORT](http://art.coop/#report). In September and October of 2021, we held [Study-into-Action](http://art.coop/#study) with 105 cultural innovators. Listen to our [PODCAST](https://art.coop/#podcast) and take a free online [COURSE](https://art.coop/#courses). Attend our [Move the Money series](https://www.giarts.org/move-money-grantmakers-arts-artcoop-solidarity-economy-discussion-series). Find us on [IG](https://www.instagram.com/_artcoop/) or [Twitter](https://twitter.com/_artcoop). \
+\
+We exist to support creatives in the [Solidarity Economy movement](https://art.coop/#examples) and to usher in the [transformation](https://art.coop/#transform) underway.
 
 ![Diagram of the Solidarity Economy](/assets/uploads/diagram02.svg "Diagram of the Solidarity Economy adapted by Caroline Woolard from Ethan Miller's graphic with permission.")
 
