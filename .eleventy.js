@@ -26,7 +26,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/_redirects');
   eleventyConfig.addWatchTarget('src/styles');
 
-  ['home', 'study'].forEach((collectionName) => {
+  ['home', 'study', 'moneypot'].forEach((collectionName) => {
     eleventyConfig.addCollection(collectionName, function (collectionApi) {
       // get unsorted items
       const raw = collectionApi.getFilteredByTag(collectionName);
