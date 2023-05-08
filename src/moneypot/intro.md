@@ -5,60 +5,72 @@ position: 1000
 anchor: ''
 ---
 
-# $300K in the MoneyPot will fund n?x {describe} artists in 2024.
+# A $300K MoneyPot will fund 300+ creatives in the Solidarity Economy in 2024
 
-####  Move money and meet your equity goals. MoneyPot facilitates life-changing transfers of wealth\* to creatives in the solidarity economy.
+#### Move money and meet your equity goals. MoneyPot facilitates life-changing transfers of wealth\* to U.S. based poor and working-class, queer, disabled, trans and BIPOC artists
 
-#### \*individual decides what is life-changing (amount, process, etc) for them and lives can be changed through both the act of receiving AND giving.
+\*individual decides what is life-changing (amount, process, etc) for them and lives can be changed through both the act of receiving AND giving.
 
-#### Resource the 2024 MoneyPot.  
+#### Resource the 2024 MoneyPot now.
 
-- We invite gifts between $10K & $100K  Gifts are tax deductible.\
+Are you an individual with wealth or a grantmaker looking to redistribute money into the hands of creatives supporting the Solidarity Economy? You’re in the right place.
+
+We invite gifts between $10K & $100K  Gifts are tax deductible.
+
 - Get in touch to learn more
 - Donate via Open Collective now
 
-#### BECOME AN ART.COOP MEMBER
+#### Become an Art.coop member
 
-- Are you a {qualifier} artist? Sign-up now.
+Are you a creative in the Solidarity Economy? Learn more about becoming a member.
 
-The MoneyPot is a practitioner-led grantmaking fund for {some qualifier e.g. full} members of Art.coop. WHY trust Art.coop to do this. Use the copy from the RoadMap doc (except replicability). --> We resource the arts + culture individuals and groups that are breathing life into the Solidarity Economy. Those (movement leaders, etc) who continue to shift the field toward community control in the arts. We resource artists who make systems-change irresistible. individuals who play a critical role in Cultivating and maintaining movement infrastructure. Learn more about the who and the what of Art.coop {link to https://art.coop/#about }
+MoneyPot is a practitioner-led grantmaking fund for the arts and culture individuals and groups who are breathing life into the Solidarity Economy. We resource artists who make systems change irresistible. Since launching our report in 2021, Art.coop’s small team has developed 7 week learning sessions, four self-paced courses and a seven-episode podcast. Learn more about the team and community at Art.coop.
 
 #### HOW IT WORKS
 
-**We are prototyping a practitioner-led model of wealth redistribution**\
+**We are prototyping a practitioner-led model of wealth redistribution**
 
-- Cultivation: Art.coop staff invite in MoneyPot contributors (both active new members and non-voting contributors)\
-- Allocation: MoneyPot allocation is determined both by Art.coop members and staff \
-- Distribution: Fund withdrawal is initiated by the recipient through the Open Collective open-source platform, and funds are utilized by the recipient in any way that supports them\
-- Observation: All MoneyPot stakeholders observe the impact of the flow of money in and through the Art.coop ecosystem{Link to download more about allocation logic and detail for those who are interested}\
+- **Cultivation**: Art.coop staff invite MoneyPot gifts
+- **Allocation**: MoneyPot allocation is practitioner-led; decisions are made by both Art.coop members and staff.
+- **Distribution**: Fund withdrawal is self-determined by the recipient through Open Collective’s open-source platform, and funds are utilized by recipients in any way that supports them.
+- **Observation**: All MoneyPot participants observe the impact of the flow of money in and through the Art.coop ecosystem.
 
 #### HOW IS THE MONEYPOT ALLOCATED?
 
-- We redistribute money to the artists and culture-bearers who are building movements for community control:
-- U.S. based poor and working-class, queer, disabled, trans and BIPOC artists
-  Actively and regularly participating in Art.coop Solidarity Economy programming and other skill sharing
-- Imagining collective future as well as building the infrastructure to realize it
-- Committing resources to the Art.coop community through annual membership dues
+**Criteria**
+
+**We redistribute money to the artists and culture-bearers who are building movements for community control.**
+
+- U.S. based poor and working-class, queer, disabled, trans and BIPOC artists.
+- Actively and regularly participating in Art.coop Solidarity Economy programming and other skill sharing.
+- Imagining collective future as well as building the infrastructure to realize it.
+- Committing resources to the Art.coop community through annual membership dues.
+
+More information about recipient criteria, allocation governance and who’s behind this fund.
 
 #### Here’s who received from the MoneyPot in 2023
 
 See the Recipients for last \[ month / year ].
 
-#### MoneyPot Ledger
+{eventually testimonials or link to other media produced during pilot}
 
-Show ledger from OCF
+#### Transparent Ledger
 
-#### RESOURCE THE 2024 MONEYPOT
+{Show ledger from OCF}
 
-**We are raising $xx to fund n?x artists in 2024.**
+#### Resource the 2024 MoneyPot
 
-- Institutional donor
-- Individual donor
+**We are raising $300k to fund 300+ creatives in 2024.**
 
-#### BECOME AN ART.COOP MEMBER
+We invite gifts between $10K & $100K  Gifts are tax deductible.
 
-Link to Airtable form
+- Get in touch to learn more
+- Donate via Open Collective now
 
-#### MONEYPOT BACKSTORY
+#### Become an Art.Coop Member
 
-...
+{Link to Airtable form}
+
+#### MoneyPot Backstory
+
+In 2023, Art.coop sent out a survey to the 2000+ people in our network to ask them what they would want to see us do to expand the work of the Solidarity Economy (SE) into more explicitly supporting arts and culture bearers across the world. The answers we received overwhelmingly called for a membership model that Art.coop would use to transform funding and resourcing to meet the needs of the creatives sustaining SE work. We’ve since built this platform, which allows individuals with wealth to redistribute their resources — and therefore parts of their power — into the Solidarity Economy through a membership program.
